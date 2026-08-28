@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Subakeerthana%20K%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ECE%20Student%20%7C%20UI%2FUX%20Designer%20%7C%20Hardware-Software%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=split&color=6366f1&customColorList=6366f1,a78bfa&height=250&section=header&text=Subakeerthana%20K&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=UI/UX%20Designer%20%7C%20ECE%20Engineer%20%7C%20Full-Stack%20Innovator&descAlignY=60&descSize=20&rotate=13" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Final-Year+ECE+Student+%F0%9F%8E%93;UI%2FUX+Designer+%F0%9F%8E%A8;Hardware+%2B+Software+Explorer+%E2%9A%99%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-<br/>
+<div align="center">
 
-<img src="https://img.shields.io/badge/CGPA-8.41-brightgreen?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Graduation-2027-blueviolet?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=Subakeerthana-K&style=for-the-badge&color=orange&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/CGPA-8.41-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Graduation-2027-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge"/>
 
 <br/><br/>
 
@@ -21,60 +21,136 @@
 
 <br/>
 
+---
+
 ## 🧭 About Me
 
-```yaml
-name: Subakeerthana K
-role: Final-Year B.E. ECE Student
-college: V.S.B College of Engineering Technical Campus, Coimbatore
-focus: UI/UX Design • Embedded Systems • Full-stack curiosity
-currently_learning: [Python, Java, Cloud Computing]
-currently_building: Food Ordering App UI/UX & Piezoelectric Power Board
-fun_fact: "I move between Figma frames and PCB layouts 🎨⚡"
+> Final-year **B.E. Electronics and Communication Engineering** student at V.S.B College of Engineering Technical Campus, Coimbatore — **CGPA 8.41/10**.
+>
+> I move between **Figma frames and circuit boards**, treating design and hardware as one continuous practice — the same instinct for clarity that shapes a wireframe also shapes a circuit board.
+
+<br/>
+
+## 🎯 Core Competencies
+
+```mermaid
+mindmap
+  root((Subakeerthana K))
+    UI/UX Design
+      Figma
+      Prototyping
+      Design Systems
+      Mobile Apps
+    Hardware Engineering
+      PCB Design
+      Circuit Analysis
+      Robotics
+      Energy Systems
+    Software Development
+      Python
+      Java
+      HTML/CSS
+      Git & GitHub
+    Leadership
+      Team Coordination
+      SIH 2025 Selection
+      Project Management
 ```
 
 <br/>
 
-## 🛠️ Tech Stack & Skills
+## 📊 Skills Distribution
+
+```mermaid
+pie title "Where My Time & Energy Goes"
+    "UI/UX Design (Figma)" : 35
+    "Circuit & PCB Design" : 25
+    "Python Development" : 20
+    "HTML/CSS & Frontend" : 12
+    "Java & Backend" : 8
+```
+
+<br/>
+
+## 📈 Technical Proficiency
+
+```mermaid
+graph LR
+    A["Figma<br/>85%"] 
+    B["HTML/CSS<br/>75%"]
+    C["Python<br/>70%"]
+    D["PCB Design<br/>60%"]
+    E["Java<br/>45%"]
+    
+    style A fill:#F24E1E,stroke:#333,color:#fff
+    style B fill:#1572B6,stroke:#333,color:#fff
+    style C fill:#3776AB,stroke:#333,color:#fff
+    style D fill:#FF1744,stroke:#333,color:#fff
+    style E fill:#007396,stroke:#333,color:#fff
+```
+
+<br/>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,java,html,css,figma,git,github,vscode&theme=light" />
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/><br/>Python
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/><br/>Java
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br/>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br/>CSS3
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48"/><br/>Figma
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br/>Git
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/><br/>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"/><br/>VS Code
+</td>
+</tr>
+</table>
+
+*All icons served from jsDelivr's devicon CDN — high-uptime, globally distributed*
 
 </div>
 
 <br/>
 
-**Proficiency Breakdown**
+## 📅 My Journey
 
-| Skill | Level |
-|---|---|
-| 🐍 Python | ![](https://progress-bar.dev/70/?title=Intermediate&width=250&color=8A2BE2) |
-| ☕ Java | ![](https://progress-bar.dev/45/?title=Basics&width=250&color=orange) |
-| 🎨 UI/UX Design (Figma) | ![](https://progress-bar.dev/85/?title=Advanced&width=250&color=ff69b4) |
-| 🌐 HTML / CSS | ![](https://progress-bar.dev/75/?title=Proficient&width=250&color=blue) |
-| 🔧 PCB / Circuit Design | ![](https://progress-bar.dev/60/?title=Hands-on&width=250&color=green) |
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Subakeerthana-K&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subakeerthana-K&layout=pie&theme=radical&hide_border=true&langs_count=8"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Subakeerthana-K&theme=radical&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Subakeerthana-K&theme=redical&hide_border=true"/>
-
-</div>
-
-> 📌 *These widgets auto-update live from your GitHub activity — the pie chart shows your language usage, and the graph below shows your commit activity over time.*
+```mermaid
+timeline
+    title Career & Academic Timeline
+    section 2023
+        B.E. ECE Started : Started B.E. Electronics & Communication Engineering
+                        : Focused on signal processing and circuit fundamentals
+                        : CGPA: 8.41/10
+    section 2024
+        Internship Phase : Quaroo Learning — Java backend development
+                        : Sunshiv Electronics — PCB design & manufacturing
+                        : Gained experience across software & hardware
+    section 2025
+        Innovation Year : Smart India Hackathon 2025 — Institute Level 🏆
+                       : Led multidisciplinary team for Career Advisor platform
+                       : IBM, Microsoft, Infosys certifications completed
+    section 2027
+        Graduation : Expected B.E. ECE Graduation 🎓
+                  : Ready for industry impact in UI/UX or Electronics roles
+```
 
 <br/>
 
@@ -82,38 +158,58 @@ fun_fact: "I move between Figma frames and PCB layouts 🎨⚡"
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🍔 Food Ordering App — UI/UX
-Designed and prototyped a full food ordering mobile app in Figma with responsive layouts, intuitive navigation, and interactive screens.
+**Full-stack design system for mobile food ordering**
 
-`Figma` `Mobile UI` `Prototyping`
+- Complete UI/UX design in Figma
+- Responsive layouts & intuitive navigation
+- Interactive high-fidelity prototypes
+- Reusable component library
+
+`Figma` `Mobile UI` `Prototyping` `Design Systems`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚡ Piezoelectric Power Board
-Hardware system that harnesses mechanical vibrations using piezoelectric materials, converting them into usable electrical energy.
+**Energy harvesting from mechanical vibrations**
 
-`Circuit Design` `Energy Harvesting`
+- Hardware system design for energy conversion
+- Custom PCB layout & circuit optimization
+- Real-world applications: wearables, IoT, sensors
+- Practical implementation of electromagnetic principles
+
+`Circuit Design` `PCB Layout` `Energy Harvesting` `Hardware`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎓 SIH 2025 — Career Advisor
-Led a team building a "One-Stop Personalized Career & Education Advisor" UI/UX prototype. **Selected at institute level.**
+### 🎓 SIH 2025 — Career Advisor Platform
+**Selected at Institute Level** 🏆
 
-`Figma` `Leadership` `UX Research`
+- Led multidisciplinary team (UI/UX focus)
+- Personalized career & education guidance platform
+- Comprehensive UX research & user testing
+- High-fidelity prototype & design specifications
+
+`Figma` `Leadership` `UX Research` `Team Management`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔥 Fire Safeguard Emergency Robot
-Intelligent robotic system with GPS and autonomous monitoring to assist in fire emergency management.
+**Autonomous safety & emergency response system**
 
-`Robotics` `GPS` `Safety Systems`
+- Intelligent robotic system with GPS tracking
+- Real-time autonomous monitoring capabilities
+- Designed for fire emergency management
+- Hardware + firmware integration
+
+`Robotics` `GPS Navigation` `Safety Systems` `Hardware Integration`
 
 </td>
 </tr>
@@ -121,49 +217,54 @@ Intelligent robotic system with GPS and autonomous monitoring to assist in fire 
 
 <br/>
 
-## 📜 Certifications
+## 📜 Certifications & Credentials
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/IBM-Python%20for%20Data%20Science%20%26%20AI-052FAD?style=flat-square&logo=ibm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft-Networking%20%26%20Cloud%20Computing-00A4EF?style=flat-square&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Infosys%20Springboard-VLSI%20%26%20Verilog-1E4D8C?style=flat-square"/>
-<img src="https://img.shields.io/badge/TCS%20iON-Career%20Edge-0066B3?style=flat-square"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-Error%20Makes%20Clever-6f42c1?style=flat-square"/>
+| Certification | Issuer | Focus |
+|:---|:---|:---|
+| **Python for Data Science & AI** | IBM | Data Science, ML Foundations |
+| **Networking & Cloud Computing** | Microsoft | Cloud Infrastructure |
+| **VLSI & Verilog Fundamentals** | Infosys Springboard | Digital Design |
+| **Career Edge Program** | TCS iON | Professional Development |
+| **Prompt Engineering** | Error Makes Clever | AI & LLM Interactions |
 
 </div>
 
 <br/>
 
-## 💼 Experience Timeline
+## 💡 What Drives Me
 
-```text
-2023 ─┬─ Started B.E. ECE @ VSB College of Engineering Technical Campus
-      │
-2024 ─┼─ Internship: Quaroo Learning India Pvt Ltd (Java fundamentals)
-      │
-      ├─ Internship: Sunshiv Electronics (PCB design & soldering)
-      │
-2025 ─┼─ Smart India Hackathon 2025 — Selected at institute level 🏆
-      │
-      ├─ IBM, Microsoft & Infosys certifications completed
-      │
-2027 ─┴─ Expected Graduation 🎓
-```
+- ✨ **Intuitive Design** — Creating interfaces that feel natural and delight users
+- ⚡ **Hardware Innovation** — Building systems where every component serves a purpose
+- 🔧 **Problem Solving** — Turning complex challenges into elegant solutions
+- 🤝 **Collaboration** — Thriving in diverse teams with complementary expertise
+- 📚 **Continuous Learning** — Staying updated with design trends and hardware advances
 
 <br/>
 
-## 📬 Let's Connect
+---
+
+## 📬 Let's Connect & Collaborate
+
+I'm actively seeking opportunities in **UI/UX Design**, **Product Design**, and **Electronics Engineering**. Whether you have a design challenge, a hardware project, or just want to connect—I'd love to hear from you!
 
 <div align="center">
 
-I'm open to opportunities in **UI/UX Design** and **Electronics Engineering** — always happy to collaborate on interesting projects!
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subakeerthana-k-4862a3320)
+[![Gmail](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksubakeerthana@gmail.com)
+[![Portfolio](https://img.shields.io/badge/View%20My%20Work-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://subakeerthana.vercel.app)
 
-<a href="https://www.linkedin.com/in/subakeerthana-k-4862a3320"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ksubakeerthana@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<br/>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+**Let's collaborate. Let's innovate. Let's create impact.** ✨
 
 </div>
+
+---
+
+<p align="center">
+  <i>Made with 🎨 & ⚡ by Subakeerthana K</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6366f1,a78bfa&height=100&section=footer" width="100%"/>
