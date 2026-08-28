@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=split&color=6366f1&customColorList=6366f1,a78bfa&height=250&section=header&text=Subakeerthana%20K&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=UI/UX%20Designer%20%7C%20ECE%20Engineer%20%7C%20Full-Stack%20Innovator&descAlignY=60&descSize=20&rotate=13" width="100%"/>
-
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Subakeerthana%20K%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ECE%20Student%20%7C%20UI%2FUX%20Designer%20%7C%20Hardware-Software%20Enthusiast&descAlignY=55&descSize=18" width="100%"/> <h3>🎨 Designing Interfaces by Day, Debugging Circuits by Night ⚡</h3> <img src="https://img.shields.io/badge/CGPA-8.41-brightgreen?style=for-the-badge"/> <img src="https://img.shields.io/badge/Graduation-2027-blueviolet?style=for-the-badge"/> <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge"/>
 
 <div align="center">
 
