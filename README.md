@@ -3,7 +3,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/CGPA-8.41-brightgreen?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Graduation-2027-blueviolet?style=for-the-badge"/>
+
 
 
 <br/><br/>
