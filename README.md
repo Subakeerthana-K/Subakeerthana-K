@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CGPA-8.41-brightgreen?style=for-the-badge"/>
+
 
 
 
