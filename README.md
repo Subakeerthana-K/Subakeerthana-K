@@ -30,7 +30,7 @@
 
 ## 🥧 Skill Distribution
 
-​```mermaid
+```mermaid
 %%{init: {"theme": "dark", "themeVariables": {"pieOuterStrokeWidth": "2px"}}}%%
 pie title Where My Time Goes
     "UI/UX Design (Figma)" : 35
@@ -38,26 +38,26 @@ pie title Where My Time Goes
     "Python" : 20
     "HTML/CSS" : 12
     "Java" : 8
-​```
+```
 
 <br/>
 
 ## 📈 Skills at a Glance
 
-​```mermaid
+```mermaid
 %%{init: {"theme": "dark"}}%%
 xychart-beta
     title "Proficiency Level (out of 100)"
     x-axis ["Figma", "Python", "HTML/CSS", "PCB Design", "Java"]
     y-axis "Skill %" 0 --> 100
     bar [85, 70, 75, 60, 45]
-​```
+```
 
 <br/>
 
 ## 🗺️ My Journey
 
-​```mermaid
+```mermaid
 %%{init: {"theme": "dark"}}%%
 timeline
     title Career & Academic Timeline
@@ -67,7 +67,7 @@ timeline
     2025 : Smart India Hackathon 2025 — Institute Level 🏆
          : IBM · Microsoft · Infosys Certifications
     2027 : Expected Graduation 🎓
-​```
+```
 
 <br/>
 
@@ -123,10 +123,10 @@ timeline
 This snake animates itself by "eating" your actual contribution graph. It needs a small GitHub Action to generate it — the image above stays broken until you do this once:
 
 1. In your `Subakeerthana-K/Subakeerthana-K` repo, go to **Actions → New workflow → set up a workflow yourself**.
-2. Name the file `snake.yml` and paste in the workflow from `Platane/snk` (search "Platane snk github action" for the exact YAML).
+2. Name the file `snake.yml` and paste in the workflow from `Platane/snk` (search "Platane snk github action" for the exact YAML — it's a well-known, widely-starred action).
 3. Commit the workflow. Go to the **Actions** tab and manually run it once (▶️ Run workflow).
-4. It auto-creates an `output` branch with the generated SVG — matching the URL already in this README.
-5. After that, it re-runs daily on its own via a cron schedule already in the workflow.
+4. It will auto-create an `output` branch with the generated SVG — matching the URL already in this README.
+5. After that, it re-runs daily on its own via a cron schedule already included in the workflow.
 
 </details>
 
